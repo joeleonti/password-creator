@@ -12,3 +12,8 @@ Prompts user to select criteria upon clicking "Generate Password" button.
 
 # Getting Started
 
+Deployed GitHub IO 
+https://joeleonti.github.io/password-creator/
+
+GitHub Repository
+https://github.com/joeleonti/password-creator
