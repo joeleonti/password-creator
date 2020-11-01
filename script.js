@@ -107,7 +107,7 @@ function generatePassword() {
       choices = space.concat(alpha2);
     };
   
-    // password variable is an array placeholder for user generated amount of length
+    // Password variable is an array placeholder for user generated amount of length
     var password = [];
   
     // Start random selection variables:
