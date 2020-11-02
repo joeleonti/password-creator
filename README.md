@@ -37,6 +37,8 @@ When user clicks on generate password:
 + Once user selects their preferred criteria, password will be generated.
 + Password is displayed in the textarea box.
 
+![image](https://user-images.githubusercontent.com/72576930/97819381-2bb60580-1c76-11eb-9a22-f61c83c21f57.png)
+
 
 
  
