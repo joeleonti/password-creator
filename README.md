@@ -42,6 +42,8 @@ When user clicks on generate password:
 
 Ability to copy/paste to clipboard added:
 
+![image](https://user-images.githubusercontent.com/72576930/97820132-ac770080-1c7a-11eb-8d1a-7db3d9c05676.png)
+
 
  
  
