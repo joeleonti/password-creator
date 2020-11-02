@@ -40,6 +40,7 @@ When user clicks on generate password:
 
 ![image](https://user-images.githubusercontent.com/72576930/97819381-2bb60580-1c76-11eb-9a22-f61c83c21f57.png)
 
+Ability to copy/paste to clipboard added:
 
 
  
