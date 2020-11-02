@@ -23,10 +23,11 @@ https://github.com/joeleonti/password-creator
 When user clicks on generate password:
 
 + They will be prompted to select from the following criteria: "between 8 & 128 characters"
-+ Click "Ok" for yes; "Cancel" for no: for the following prompts
++ Click "Ok" for YES; "Cancel" for NO: 
 
 ![image](https://user-images.githubusercontent.com/72576930/97819276-826f0f80-1c75-11eb-928d-6cc872e74672.png)
 
+    + Click "Ok" for yes; "Cancel" for no: for the following prompts
     + Will this contain numbers?
     + Will this contain special characters? ex. non-alphanumeric characters
     + Will this contain Uppercase letters?
